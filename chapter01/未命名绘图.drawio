@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T01:35:25.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="kfLyZNbMOLmjFw1TwhR8" type="github"><diagram id="wXsYdDNH6_Tl6KF2vwSC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-14T02:35:48.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="6rVOJNRROBoCkBblZLfh" type="github">
+  <diagram id="QSiF4qfuh3ATqGEt3pHp" name="第 1 页">
+    <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="brCjkMM8fZIfRbKJTr0I-1" value="用户缓存" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;strokeColor=#666666;sketch=1;fontColor=#333333;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
