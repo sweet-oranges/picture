@@ -1,20 +1,139 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="第 1 页" id="g4APmRrsnfNBzuewSwoL">
-    <mxGraphModel dx="1221" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I33JcKNfurFb-8igzdnE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I33JcKNfurFb-8igzdnE-2" target="I33JcKNfurFb-8igzdnE-3">
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-2" value="创建作业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="fakxRtxY04ZdRoePbTZ0-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="154" y="270" as="sourcePoint" />
+            <mxPoint x="264" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="204" y="270" />
+              <mxPoint x="154" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-13" value="推错题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-16" value="推练习题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fakxRtxY04ZdRoePbTZ0-2" target="fakxRtxY04ZdRoePbTZ0-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214" y="360" as="sourcePoint" />
+            <mxPoint x="294" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="264" y="360" />
+              <mxPoint x="214" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-19" value="推预习题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fakxRtxY04ZdRoePbTZ0-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="164" y="270" as="sourcePoint" />
+            <mxPoint x="264" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="fakxRtxY04ZdRoePbTZ0-13" target="fakxRtxY04ZdRoePbTZ0-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="190" as="sourcePoint" />
+            <mxPoint x="530" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fakxRtxY04ZdRoePbTZ0-16" target="fakxRtxY04ZdRoePbTZ0-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="404" y="180" as="sourcePoint" />
+            <mxPoint x="510" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.035;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fakxRtxY04ZdRoePbTZ0-19" target="fakxRtxY04ZdRoePbTZ0-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="190" as="sourcePoint" />
+            <mxPoint x="520" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-25" value="返回成功或失败" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-26" value="异步(3s)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="309" y="410" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-27" value="异步(1s)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="309" y="300" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-28" value="异步(4s)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="299" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-31" value="同步(4s)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="478" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="480" as="sourcePoint" />
+            <mxPoint x="640" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-35" value="推错题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-36" value="推练习题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-38" value="推预习题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-44" value="异步(1s)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="600" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-45" value="异步(4s)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="600" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fakxRtxY04ZdRoePbTZ0-46" target="fakxRtxY04ZdRoePbTZ0-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I33JcKNfurFb-8igzdnE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I33JcKNfurFb-8igzdnE-2" target="I33JcKNfurFb-8igzdnE-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-46" value="创建作业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="700" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I33JcKNfurFb-8igzdnE-2" value="游戏" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-47" value="返回成功" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="690" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I33JcKNfurFb-8igzdnE-3" value="游戏" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-49" value="异步(3s)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="600" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.418;exitY=-0.042;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fakxRtxY04ZdRoePbTZ0-46" target="fakxRtxY04ZdRoePbTZ0-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169" y="705" as="sourcePoint" />
+            <mxPoint x="309" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fakxRtxY04ZdRoePbTZ0-46" target="fakxRtxY04ZdRoePbTZ0-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="213" y="707" as="sourcePoint" />
+            <mxPoint x="206" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.626;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fakxRtxY04ZdRoePbTZ0-46" target="fakxRtxY04ZdRoePbTZ0-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="223" y="717" as="sourcePoint" />
+            <mxPoint x="216" y="635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="810" as="sourcePoint" />
+            <mxPoint x="570" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fakxRtxY04ZdRoePbTZ0-55" value="同步1s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="319" y="830" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
